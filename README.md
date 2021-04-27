@@ -4,7 +4,7 @@
 ### Programming enthusiast. If I'm not coding 👨‍💻, I'm playing the guitar 🎻.
 
 <center>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonribeiro"/>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonribeiro&show_icons=true&langs_count=10&layout=compact&theme=cobalt&count_private=true"/>
 </center>
 
 ## Skills
